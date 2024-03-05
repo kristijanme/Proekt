@@ -2,11 +2,11 @@
 SculptureUp is a mobile application made using Flutter SDK and firebase as a database for user authentication.
 
 # Features
--Custom UI elements
--State management
--Login functionalities using Firebase
--Displaying google maps
--Notifications 
+- Custom UI elements
+- State management
+- Login functionalities using Firebase
+- Displaying google maps
+- Notifications 
 
 # Installation
 - To install this app you will need to have Node.js installed on the device you are using
